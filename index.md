@@ -1,3 +1,3 @@
-Hello! friends, this is a blog about my journey about technology and other things. 
+Hello! friends, this is a blog about my journey in technology and other things. 
 
 Enjoy it!
