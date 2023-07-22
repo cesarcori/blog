@@ -1,7 +1,7 @@
-## Tomar en cuenta
+## Caso 
 
-El scroll del touchpad, de la laptop está configurado para que se comporte
-con la configuración "Natural Scroll", esta configuración está pensada 
+El scroll del touchpad de la laptop, está configurado para que se comporte
+con la configuración "Natural Scroll". Esta configuración es pensada 
 para funcionar como si fuera un dispositivo móvil, o táctil.
 
 Se quiere evitar esta configuración quitando esta configuración.
@@ -28,15 +28,13 @@ se removió para optener lo deseado.
 
 En un principio me encontraba trabajando con NaturalScrolling normal, 
 esto por tema que yo quería trabajar así, pero tuve que optar por trabajar 
-de esa manera por la siguiente razón.
+sin el NatualScrolling por la siguiente razón.
 
-En mi trabajo como desarrollador,
-me proporcionaron una computadora con sistema operativo Windows y si
-bien puedo configurarlo a mi manera, al momento de que necesito ayuda
-y mis compañeros quieren ayudarme, esta característica al momento de
-hacer scroll con el mouse, les resulta 
-incómoda. Por ese motivo tuve que adaptarme al desempeño normal del
-Scroll, que Windows trae por defecto.
+En mi trabajo como desarrollador me proporcionaron una computadora con 
+sistema operativo Windows, si
+bien puedo configurarlo a mi manera, al momento de necesitar ayuda de mis
+compañeros, esta característica del scroll les era incómoda. Por ese motivo 
+tuve que adaptarme al desempeño normal del scroll, que Windows trae por defecto.
 
 ## Referencias
 
