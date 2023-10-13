@@ -22,7 +22,7 @@ que no es case sensitive.
     nombre_campo ilike '%bcd%'
     nombre_campo ILIKE '%bcd%'
 
-El uso de like tiene la misma forma que el ilike.
+El uso de like tiene la misma forma que el de ilike.
 
     nombre_campo like '%bcd%'
     nombre_campo LIKE '%bcd%'
