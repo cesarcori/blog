@@ -12,7 +12,7 @@ los contenedores que se encuentran corriendo.
 El comando que debí haber utilizado para evitarme del susto
 era: `docker ps -a`. Aclarar que para mi caso utilizo `sudo docker <command>`,
 debido a que en la distribución que utilizo (Fedora) se
-configura de esa manera. Anterior mente utilizé ArchLinux, y
+configura de esa manera. Anteriormente utilizé ArchLinux, y
 no era requerido permisos de super admin `sudo`.
 
 ## Curiosidades
