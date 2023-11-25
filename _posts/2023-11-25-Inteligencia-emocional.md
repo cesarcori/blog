@@ -38,11 +38,12 @@ A continuación listo un par de libros que sin lugar a duda ayudan
 en este viaje de entendimiento y revelación. 
 
 Inteligencia Emocional, por Daniel Goleman
+    
 Liderazgo, el poder de la inteligencia emocional, por Daniel Goleman.
 
-Animo a todo aquel que aya encontrado este material, pueda aventurarse
-en este concepto. 
+Animo a todo aquel que aya encontrado este post, pueda aventurarse
+en este concepto: Ingeligencia emocional. 
 
-No será una solución para que una tempestad siga su curso, 
-pero si una guía para un refugio y lugar para contemplarla.
+> No será una solución para que una tempestad siga su curso, 
+> pero si una guía para un refugio y lugar para contemplarla.
 
