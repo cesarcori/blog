@@ -14,7 +14,7 @@ caracter distinto a una vocal.
 
 ## Solución
 
-Tras investigar en internet, encontré el [post](Disable dead keys for US-International keyboard layout),
+Tras investigar en internet, encontré el post: [Disable dead keys for US-International keyboard layout](https://answers.microsoft.com/en-us/windows/forum/all/disable-dead-keys-for-us-international-keyboard/1de44160-83d9-4cd8-9eb3-e6b06b8604a4),
 donde explica de la misma manera esta inquietud. La solución es instalar 
 una aplicación que configure el layout e instalar el nuevo layout. 
 
