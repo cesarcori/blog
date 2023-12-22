@@ -30,10 +30,10 @@ Instalamos la aplicación y la abrimos:
 4. Compilar el DLL: Project, Build DLL and Setup Package.
 5. Instalar setup.exe: El programa creará en un Folder todos los archivos necesarios para la instalación, 
    ejecutar el setup.exe
-6. Buscar el teclado en la disposición y voilá. 
+6. Ingresar en la opción de windows para configurar teclado y buscar el teclado con el nombre que guardamos y voilá. 
 
 Ahora nuevamente a escribir tanto en español como en inglés, sin tener que estar cambiando
-de disposición de teclado hehehe.
+de disposición de teclado (hehehe).
 
 Hasta otro post! see you soon.
 
