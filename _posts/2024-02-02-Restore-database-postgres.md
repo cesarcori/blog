@@ -9,6 +9,6 @@ Another command to do this:
 
 This problem raise because I use the command pg_dump: 
 
-    pd_dump -U username -d name-database > database-backup.sql
+    pg_dump -U username -d name-database > database-backup.sql
 
 Before I was using the common way with DBeaver. That was the difference.
