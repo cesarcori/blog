@@ -1,14 +1,12 @@
-Trying restore database I find in error, because I backup with dump,
-and when you use pg_dump for make backups, it's necessary use psql.
+Trying restore database "pg_restore", It raise the error: input file
+appears to be a text format dump. Please use psql. 
+
+As a prompt says --please use psql-- it's necessary use psql.
 
     psql -U username -d name-database < database-backup.sql
 
-Another command to do this: 
-
-    pg_restore -U username -d 'name-database' 'database-backup'
-
-This problem raise because I use the command pg_dump: 
+That command is necessary when I use the command pg_dump: 
 
     pg_dump -U username -d name-database > database-backup.sql
 
-Before I was using the common way with DBeaver. That was the difference.
+Before I was using the common way with DBeaver, Tools > backup. That was the difference.
