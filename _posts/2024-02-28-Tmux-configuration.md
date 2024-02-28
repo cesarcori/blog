@@ -3,6 +3,8 @@ Debí haber hecho esto desde hace mucho tiempo.
 ## Comandos utilizados frecuentemente
 
     tmux rename-session new_name
+    
+    tmux new -s mi_sesion
 
 ## Shortcuts
 
@@ -10,7 +12,7 @@ Debí haber hecho esto desde hace mucho tiempo.
 
 <leader> + , : Rename panel
 
-<leader> 
+<leader> + :new -s mi_sesion : crea una nueva sesión
 
 ## Configuración .tmux.conf
 
