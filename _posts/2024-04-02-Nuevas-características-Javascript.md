@@ -38,12 +38,6 @@ La nueva característica es que ahora se tiene el método structuredClone()
     auto.modelo.year = '1995'
     console.log(copiaAuto2.modelo.year) // salida 2022
 
-## TransformStream
-
-## import maps
-
-## json imports
-
 ## Fuente
 
 https://www.youtube.com/watch?v=q1fsBWLpYW4
