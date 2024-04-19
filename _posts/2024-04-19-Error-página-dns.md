@@ -7,7 +7,7 @@ me salió el error de: No se encontró la página web. Lo peculiar fué que
 desde la pc de mis otros compañeros todo estaba normal! Cambié de navegador
 y tampoco ingresó, pero esta vez con el siguiente error: (algo que agradecer).
 
-    This site can’t be reachedCheck if there is a typo in redsajseguimiento.justicia.gob.bo. DNS_PROBE_FINISHED_NXDOMAIN
+    This site can’t be reachedCheck if there is a typo <URL-PROBE> DNS_PROBE_FINISHED_NXDOMAIN
 
 Lo busqué, y encontré una solución que me funcionó. [Solución](https://www.hostinger.es/tutoriales/error-dns_probe_finished_nxdomain?ppc_campaign=google_search_generic_hosting_all&bidkw=defaultkeyword&lo=9077352&gad_source=1&gclid=CjwKCAjwrIixBhBbEiwACEqDJVEN_Y2q1H3oGMzZr8lTLzu8bBX-zbf1reKTwI6C0wpx6ub0YhJrSRoCWHgQAvD_BwE#Cache_del_navegador)
 
