@@ -1,19 +1,21 @@
-Debí haber hecho esto desde hace mucho tiempo.
-
 ## Comandos utilizados frecuentemente
 
     tmux rename-session new_name
     
     tmux new -s mi_sesion
 
+Si ya se inició una sesión tmux, lo más recomendable es ejecutarlo en comando: `new -s mi_sesion`.
+
 ## Shortcuts
 
-<leader> = Ctrl + B : Por defecto
+`<leader> = Ctrl + B` : Por defecto
 
-<leader> + , : Rename panel
+`<leader> + ,` : Rename panel
 
-<leader> + :new -s mi_sesion : crea una nueva sesión
+`<leader> + :` : Modo comando
 
-## Configuración .tmux.conf
+<!-- ## Configuración .tmux.conf -->
 
-## Plugins
+
+<!-- ## Plugins -->
+
