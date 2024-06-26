@@ -1,10 +1,10 @@
-Algo peculiar que me ocurrió, y siento honesto, algo desconsertante.
-Pues el error solo se generaba en mi ordenador. 
+Algo peculiar que me ocurrió (siendo honesto, algo desconsertante), 
+pues el error solo se generaba en mi ordenador. 
 
-Lo que ocurrió es lo siguiente: Me compartieron un enlace de un sistema
-el cual nos encontramos trabajando, pero al momento de ingresar al enlace
-me salió el error de: No se encontró la página web. Lo peculiar fué que
-desde la pc de mis otros compañeros todo estaba normal! Cambié de navegador
+Lo que ocurrió es lo siguiente: Me compartieron un enlace de un sistema, 
+pero al momento de ingresar al enlace
+me salió el error: `No se encontró la página web`. Lo peculiar fué que
+desde las computadoras de mis otros compañeros todo estaba normal! Cambié de navegador
 y tampoco ingresó, pero esta vez con el siguiente error: (algo que agradecer).
 
     This site can’t be reachedCheck if there is a typo <URL-PROBE> DNS_PROBE_FINISHED_NXDOMAIN
