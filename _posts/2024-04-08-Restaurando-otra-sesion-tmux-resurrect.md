@@ -23,7 +23,7 @@ Remover el symlink que dirige al anterior archivo
 
 Crear un symlink last que enlace a la sesin que quieres:
 
-    ls -s tmux_resurrect_date_deseado.txt last
+    ln -s tmux_resurrect_date_deseado.txt last
 
 Crear un script no estaría por demás. jejeje.
 
