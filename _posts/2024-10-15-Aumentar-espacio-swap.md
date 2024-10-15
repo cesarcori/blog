@@ -16,6 +16,10 @@ Limpiando swap:
     sudo swapoff -a
     sudo swapon -a
 
+Nota: Debido a que me informaron que las aplicaciones se cierran al realizar
+este proceso (Aunque en mi caso, no) Se recomienda cerrar las aplicaciones
+y guardar los trabajo que se está realizando.
+
 En mi caso tengo la salida:
 
     NAME      TYPE SIZE USED PRIO
@@ -31,4 +35,4 @@ Si que quiere más espacio, solo es modificar la variable `count`
     sudo swapon /swap.img
     swapon --show
 
-Hasta el próximo blog. 
+Hasta el próximo post.
