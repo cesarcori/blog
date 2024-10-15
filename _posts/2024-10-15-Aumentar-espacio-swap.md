@@ -11,6 +11,11 @@ Esto puede comprobarse con:
 
     swapon --show
 
+Limpiando swap:
+
+    sudo swapoff -a
+    sudo swapon -a
+
 En mi caso tengo la salida:
 
     NAME      TYPE SIZE USED PRIO
