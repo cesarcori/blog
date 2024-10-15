@@ -1,0 +1,24 @@
+Algo que ocurrió en mi grupo de amigos, es que instalamos linux
+
+Este método solo sirve cuando el swap es un archivo: swap.img
+
+Esto puede comprobarse con: 
+
+    swapon --show
+
+En mi caso tengo la salida:
+
+    NAME      TYPE SIZE USED PRIO
+    /swap.img file  16G   0B   -2
+
+Si es el caso los siguientes comandos amplian la swap a 16G
+Si que quiere más espacio, solo es modificar la variable `count`
+
+    sudo swapoff /swap.img
+    sudo dd if=/dev/zero of=/swap.img bs=1G count=16
+    sudo chmod 600 /swap.img
+    sudo mkswap /swap.img
+    sudo swapon /swap.img
+    swapon --show
+
+Hasta el próximo blog. 
